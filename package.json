@@ -1,0 +1,6 @@
+{
+  "name": "pyrolandia-cache",
+  "version": "1.0.0",
+  "description": "Inventory cache API for Pyrolandia",
+  "private": true
+}
